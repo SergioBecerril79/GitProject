@@ -1,7 +1,10 @@
 class MyClass {
-let myProperty = "" 
+let myProperty = "Property" 
 let otherProperty: Int = 5
 let myProperty2 = "Hola"
-let isUserLogin = true
-let user = "User"
+let git = 5
+
+fun myFunction() {
+    print("Hola")
+}
 }
